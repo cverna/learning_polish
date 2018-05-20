@@ -4,6 +4,10 @@
 Vocabulary
 ++++++++++
 
+
+Nouns
+-----
+
 wstać: to stand up (to get up)
 
 piłka nożna: football
@@ -66,7 +70,6 @@ pojutrze: the day after tomorrow
 
 danie: a meal (a course)
 
-ciężkie (n), ciężka (f), ciężki (m): heavy
 
 trochę wszystkiego: a bit of everything
 
@@ -112,9 +115,15 @@ jedynaczka (f), jedynak (m): only child
 
 bliźniaczka (f), bliźniak (m): twin
 
-rozwiedziona (f), rozwiedziony (m): divorced
 
-wolna (f), wolny (m): free (single)
+Adjectives
+----------
 
-mężatka (f), żonaty (m): married
-
+============== ============ ============= =============
+  n             f            m             eng
+============== ============ ============= =============
+ciężkie        ciężka       ciężki        heavy
+   n/a         mężatka      żonaty        married
+   n/a         wolna        wolny         free (single)
+   n/a         rozwiedziona rozwiedziony  divorced
+============== ============ ============= =============
