@@ -83,11 +83,15 @@ pięknie   piękniejsze    najpiekniejsze
 beautiful more beautiful the most beautiful
 ========= ============== ==================
 
+---
+
 ===== ====== =========
 dobre lepsze najlepsze
 ===== ====== ========= 
 good  better the best
 ===== ====== =========
+
+---
 
 === ====== =========
 złe gorsze najgorsze
