@@ -4,19 +4,17 @@
 Vocabulary
 ++++++++++
 
-
-Nouns
+Sport
 -----
-
-wstać: to stand up (to get up)
 
 piłka nożna: football
 
 siłownia: the gym
 
-mocny: strong
+koszykówka: basketball
 
-charakter: character (personality)
+Time Notion
+-----------
 
 lat: years
 
@@ -27,24 +25,6 @@ póltora roku: 1 and 1/2 year
 pólnoc: midnight / north
 
 na pólnocy: in the north
-
-wschód: east
-
-na wschodzie: in the east
-
-południe: midday / south
-
-na południu: in the south
-
-zachód: west
-
-na zachodzie: in the west
-
-płatki: flakes (breakfast)
-
-i polskie i francuskie: this and this
-
-ani polskie ani francuskie: neither nor
 
 wiosma: spring
 
@@ -68,62 +48,91 @@ jutro: tomorrow
 
 pojutrze: the day after tomorrow
 
+Direction
+---------
+
+wschód: east
+
+na wschodzie: in the east
+
+południe: midday / south
+
+na południu: in the south
+
+zachód: west
+
+na zachodzie: in the west
+
+i polskie i francuskie: this and this
+
+ani polskie ani francuskie: neither nor
+
 danie: a meal (a course)
 
+płatki: flakes (breakfast)
+
+charakter: character (personality)
 
 trochę wszystkiego: a bit of everything
 
 wszystko: everything
 
-pięknie, piękniejsze, najpiekniejsze: beautiful, more beautiful, the most beautiful
+========= ============== ==================
+pięknie   piękniejsze    najpiekniejsze
+========= ============== ==================
+beautiful more beautiful the most beautiful
+========= ============== ==================
 
-dobre, lepsze, najlepsze: good, better, the best
+===== ====== =========
+dobre lepsze najlepsze
+===== ====== ========= 
+good  better the best
+===== ====== =========
 
-złe, gorsze, najgorsze: bad, worse, the worst
+=== ====== =========
+złe gorsze najgorsze
+=== ====== ========= 
+bad worse  the worst
+=== ====== =========
 
 stosunki: relation
 
-międzynarodowe (n), międzynarodowa (f), międzynarodowy (m) : international
-
-uwielbiam: to adore
-
 nie cierpię: can't stand
-
-singielka (f), singiel (m): single
-
-kawaler (m): single
-
-panna (f): single
 
 kosz: basket (basketball, bin)
 
 koszyk: basket for shopping
 
-uprawiać sport: do sport
-
 zdrowie: health
-
-zdrowe (n), zdrowa (f), zdrowy (m): healthy
 
 rzadko: rarely
 
-wdowa(f), wdowiec (m): widow, widower
-
 rodzeństwo: siblings
 
-jedynaczka (f), jedynak (m): only child
+Nouns
+-----
 
-bliźniaczka (f), bliźniak (m): twin
-
+============== ============ ============= =============
+  n             f            m             english
+============== ============ ============= =============
+n/a            jedynaczka   jedynak       only child
+n/a            bliźniaczka  bliźniak      twin
+n/a            wdowa        wdowiec       widow(er)
+n/a            panna        kawaler       single
+n/a            singielka    singiel       single
+============== ============ ============= =============
 
 Adjectives
 ----------
 
-============== ============ ============= =============
-  n             f            m             eng
-============== ============ ============= =============
-ciężkie        ciężka       ciężki        heavy
-   n/a         mężatka      żonaty        married
-   n/a         wolna        wolny         free (single)
-   n/a         rozwiedziona rozwiedziony  divorced
-============== ============ ============= =============
+============== ============== ============== =============
+  n             f             m              english
+============== ============== ============== =============
+ciężkie        ciężka         ciężki         heavy
+n/a            mężatka        żonaty         married
+n/a            wolna          wolny          free (single)
+n/a            rozwiedziona   rozwiedziony   divorced
+mocne          mocna          mocna          strong
+zdrowe         zdrowa         zdrowy         healthy
+międzynarodowe międzynarodowa międzynarodowy international
+============== ============== ============== =============
