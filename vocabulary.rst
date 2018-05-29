@@ -113,6 +113,86 @@ rzadko: rarely
 
 rodzeństwo: siblings
 
+ubezpieczenie: insurance
+
+przegląd auto: car check (review)
+
+światła: light
+
+żarówka: bulb
+
+benzyna: petrol
+
+opomy zimowe: winter tires
+
+opomy letnie: summer tires
+
+płym do sprysliwaczy: windshield washing liquid
+
+====== ====== =============
+plusy  zalety advantages
+====== ====== =============
+minusy wady   disadvantages
+====== ====== =============
+
+autobus jest zawsze zatłoczony: the bus is always crowded
+
+tłok: a lot of people (bardzo ludzie)
+
+tłum: crowd (busy in a concert)
+
+drożej: expensive
+
+rozciąganie: streching
+
+Chiałbym: I would like to (m)
+
+Chiałabym: I would like to (f)
+
+najłatwiej: the easiest
+
+łatwiej: easier
+
+szybko: fast
+
+rosną: they grow
+
+cienkie: thin
+
+dłuższa: longer (f)
+
+krótsza: shorter (f)
+
+szczotka: brush
+
+zajmuję się: work related/ occupation
+
+pieniądz: money
+
+cieszyć się: happy
+
+w poniedziałek: on monday
+
+we wtorek: on tuesday
+
+w środę: on wednesday
+
+w czartek: on thursday
+
+w piątek: on friday
+
+w sobotę: on staturday
+
+w niedziele: on sunday
+
+odprowadzam ja do przedszkola: I am walking with her to the preschool
+
+bawię się z córką: play with my daughter
+
+kąpie się (kąpać się): to take a bath
+
+brać prysnic: to take a shower
+
 Nouns
 -----
 

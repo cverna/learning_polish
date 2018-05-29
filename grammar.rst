@@ -25,3 +25,19 @@ dwie siostry: 2 sisters
 dwoje dzieci: 2 children
 
 dwie komórki: 2 mobile phone
+
+
+Instrumental
+------------
+
+https://mowicpopolsku.com/polish-grammar/cases/instrumental/
+
+The Instrumental Case always refers to the object of a sentence, never to its subject.
+
+* (z) kim? – with who? / with whom?
+
+* (z) czym? – with what?
+
+Maria jest wysoka
+
+Maria jest wysoką kobietą
