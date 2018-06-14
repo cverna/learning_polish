@@ -193,6 +193,52 @@ kąpie się (kąpać się): to take a bath
 
 brać prysnic: to take a shower
 
+czysto: clean
+
+wiersz: poem
+
+błąd: error, mistake
+
+wspaniały: magnificient
+
+zegarek : a watch
+
+wcześniej: earlier
+
+dalej: further
+
+wściekły: furious
+
+dość: enough
+
+wszystkiego: everything
+
+słabo: poorly
+
+nagle: suddenly
+
+najpierw: first
+
+jednocześnie: at the same time
+
+w tym samym czasie: at the same time
+
+nareszcie: finally
+
+wreszcie: finally
+
+już: already
+
+nadal: still
+
+zwykle: usually
+
+
+
+
+
+
+
 Nouns
 -----
 

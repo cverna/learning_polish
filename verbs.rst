@@ -23,7 +23,7 @@ oni,one       pisz         kupuj        -ą
 ================= ===========================
 czasowniki        verbs
 ================= ===========================
-pisać             to read
+pisać             to write
 pić               to drink
 móc               to can
 brać              to take
