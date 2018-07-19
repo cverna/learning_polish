@@ -12,7 +12,7 @@ Welcome to Learning Polish is fun !!!
    vocabulary.rst
    grammar.rst
    verbs.rst
-   diary.rst
+   challenge.rst
 
 
 Indices and tables
